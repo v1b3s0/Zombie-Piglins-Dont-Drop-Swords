@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:zombified_piglin] run data modify entity @s HandDropChances set value [-327.67f,-327.67f]

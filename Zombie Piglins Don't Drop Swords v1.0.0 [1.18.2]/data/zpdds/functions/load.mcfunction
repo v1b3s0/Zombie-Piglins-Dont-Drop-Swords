@@ -1,1 +1,0 @@
-tellraw @a ["",{"text":"ZPDDS v1.0.0 loaded!","color":"green"}," If you encounter any issues, please let me know at ",{"text":"github.com/Glowing0v3rlord/Zombie-Piglins-Dont-Drop-Swords/issues","underlined":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://github.com/Glowing0v3rlord/Zombie-Piglins-Dont-Drop-Swords/issues"}},"!"]

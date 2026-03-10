@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Fork update for 1.21.11 that prevents zombified piglins from dropping held weapons.",
+    "min_format": [94, 1],
+    "max_format": [94, 1]
+  }
+}
